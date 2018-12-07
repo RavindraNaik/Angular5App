@@ -1,6 +1,12 @@
-# Aiproject
+# Angular 5 Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+
+Download Zip and navigate to the folder
+
+## Install Dependencies
+
+Run `npm i` to install dependencies.
 
 ## Development server
 
