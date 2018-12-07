@@ -11,9 +11,7 @@ Download Zip and navigate to the folder
 4) Angular Material
 5) Share Data Service - To share data between app components.
 6) API Service - To Make Restful API calls.
-7) Changeable API Base URL after building app.
-
-Run `npm i` to install dependencies.
+7) Changeable API Base URL after building app (Change is 'src/env.js').
 
 ## Install Dependencies
 
