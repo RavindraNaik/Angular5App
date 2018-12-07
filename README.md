@@ -4,6 +4,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Download Zip and navigate to the folder
 
+## Features
+1) Angular 5 Application
+2) Routing
+3) Scss
+4) Angular Material
+5) Share Data Service - To share data between app components.
+6) API Service - To Make Restful API calls.
+7) Changeable API Base URL after building app.
+
+Run `npm i` to install dependencies.
+
 ## Install Dependencies
 
 Run `npm i` to install dependencies.
